@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FBMI-Calculator&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic" />
   <img src="https://img.shields.io/github/stars/reshmaharidhas/translator">
+  <img src="https://img.shields.io/github/languages/top/reshmaharidhas/translator?labelColor=black&color=%230b33e3"/>
+  <img src="https://img.shields.io/github/repo-size/reshmaharidhas/translator"/>
+  <img src="https://img.shields.io/github/created-at/reshmaharidhas/translator"/>
 </p>
 Badaga dictionary
 
